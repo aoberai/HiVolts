@@ -14,7 +14,7 @@ import java.net.URISyntaxException;
  * @author Max Valasek
  * Initializes HomeScreen with animations for buttons
  */
-public class HomeScreen extends JFrame {
+public class Menu extends JFrame {
 
     static private BufferedImage quitButton;
     static private BufferedImage arcadeHome;
@@ -28,8 +28,7 @@ public class HomeScreen extends JFrame {
     /**
      * Creates home screen graphical interface with animations and button interface
      */
-
-    public HomeScreen() {
+    public Menu() {
         try {
             quitButton = ImageIO.read(new File(getClass().getResource("/resources/quit.jpg").toURI()));
         } catch (IOException | URISyntaxException e) {
@@ -57,7 +56,7 @@ public class HomeScreen extends JFrame {
             e.printStackTrace();
         }
 
-        frame.setDefaultCloseOperation(HomeScreen.EXIT_ON_CLOSE);
+        frame.setDefaultCloseOperation(Menu.EXIT_ON_CLOSE);
         frame.setContentPane(new JPanel() {
             @Override
             public void paintComponent(Graphics g) {
@@ -68,18 +67,18 @@ public class HomeScreen extends JFrame {
 
         // LAYOUT MANAGER //
         panel.setOpaque(false);
-        BoxLayout boxlayout = new BoxLayout(panel, BoxLayout.Y_AXIS);
+        BoxLayout boxlayout = new BoxLayout(panel, BoxLayout.Y_AXIS);  //formats button to have both on top of each other
         panel.setLayout(boxlayout);
         panel.setBorder(new EmptyBorder(new Insets(55, 200, 150, 200)));
 
         // QUIT ICON //
         ImageIcon quitIcon = new ImageIcon(quitButton);
         ImageIcon quitHover = new ImageIcon(quitHoverAnimation);
-        JButton quitB = new JButton(quitIcon);
-        quitB.setBorder(BorderFactory.createEmptyBorder());
-        quitB.setRolloverIcon(quitHover); //if player cursor is hovering over button, it changes the icon (different image) turning yellow
+        JButton quitButton = new JButton(quitIcon);
+        quitButton.setBorder(BorderFactory.createEmptyBorder());
+        quitButton.setRolloverIcon(quitHover); //if player cursor is hovering over button, it changes the icon (different image) turning yellow
 
-        quitB.addActionListener(new ActionListener() {
+        quitButton.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
                 Main.music.fadeMusic(20);
                 System.exit(0);
@@ -89,49 +88,40 @@ public class HomeScreen extends JFrame {
         // START ICON //
         ImageIcon startIcon = new ImageIcon(startButton);
         ImageIcon startHover = new ImageIcon(startHoverAnimation);
-        JButton startB = new JButton(startIcon);
-        startB.setBorder(BorderFactory.createEmptyBorder());
-        startB.setRolloverIcon(startHover);
-        startB.addActionListener(new ActionListener() {
+        JButton startButton = new JButton(startIcon);
+        startButton.setBorder(BorderFactory.createEmptyBorder());
+        startButton.setRolloverIcon(startHover);
+        startButton.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
                 System.out.println("Start Button Clicked");
-                closeHomeScreen(); //remove menu home screen
+                closeMenu(); //remove menu home screen
                 Music.clip.close();
-                Music.selectMusic(1);
+                Music.selectMusic("gameMusic");
                 Main.painter.setResizable(false);
                 Main.painter.setLocation(100, 100);
                 Main.painter.setVisible(true);
                 Main.painter.addKeyListener(new KeyDetector());
                 Main.cell.populateBoard();
-
             }
         });
 
-
         // ADD ICONS TO SCREEN //
+        panel.add(Box.createRigidArea(new Dimension(0, 60))); //button spacing
+        panel.add(startButton);
         panel.add(Box.createRigidArea(new Dimension(0, 60)));
-        panel.add(startB);
-        panel.add(Box.createRigidArea(new Dimension(0, 60)));
-        panel.add(quitB);
+        panel.add(quitButton);
 
         // DISPLAY JFRAME //
-        //frame.setBackground(Color.BLACK);
-
         frame.add(panel);
         frame.pack();
         frame.setSize(900, 592);
         frame.setLocation(100, 100);
-
         frame.setVisible(true);
-
-        System.out.println("open start");
-
-
     }
     /**
      * Removes initial windows with buttons replacing it with actual game
      */
-    public void closeHomeScreen() {
+    public void closeMenu() {
         panel.removeAll();
         frame.setVisible(false);
         frame.dispose();

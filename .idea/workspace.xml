@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0bcd431b-6000-4ca4-a0a2-b3b62f0cb300" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/HiVoltsFinalProject_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HiVoltsEdition2 copy 2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HiVoltsEdition2 copy 2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HiVoltsEdition2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HiVoltsEdition2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HiVoltsFinalProject 2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HiVoltsFinalProject 2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/arcade copy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/arcade.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/arcade.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/arcade.psd" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/arcade.psd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/arcadeOff.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/arcadeOff.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/blackSquare.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/dOrange.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/dOrange.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/green.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/green.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/orange.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/orange.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/purple.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/purple.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/red.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/red.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/white-ish.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/white-ish.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/win.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/win.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/win1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/win1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/win2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/win2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/win3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/win3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/win4.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/win4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/yellow.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/yellow.png" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TL9WD1mm1wEveVA9Lc9yBzBi1P" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="game.Main" />
+      <module name="Finna HiVolts" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0bcd431b-6000-4ca4-a0a2-b3b62f0cb300" name="Default Changelist" comment="" />
+      <created>1573228537718</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573228537718</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/game/Painter.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/game/Painter.java</url>
+          <line>303</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/game/Painter.java</url>
+          <line>314</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/game/Player.java</url>
+          <line>111</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
