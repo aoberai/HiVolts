@@ -1,7 +1,7 @@
 package game;
 
 /**
- * @author Amrit Arora, Max Valasek, Amrit Arora
+ * @author Aditya Oberai, Max Valasek, Amrit Arora
  *
  * Hivolt's Project Info
  *
@@ -15,5 +15,5 @@ public class Main {
     static Painter painter = new Painter();
     static Music music = new Music();
     static Cell cell = new Cell();
-    public static void main(String[] args) { new Menu();}
+    public static void main(String... args) { new Menu();}
 }

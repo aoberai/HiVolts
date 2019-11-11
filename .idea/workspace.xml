@@ -2,35 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bcd431b-6000-4ca4-a0a2-b3b62f0cb300" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/HiVoltsFinalProject_2_jar.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HiVoltsEdition2 copy 2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HiVoltsEdition2 copy 2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HiVoltsEdition2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HiVoltsEdition2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HiVoltsFinalProject 2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HiVoltsFinalProject 2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/game/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/Menu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/arcade copy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/arcade.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/arcade.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/arcade.psd" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/arcade.psd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/arcadeOff.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/arcadeOff.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/blackSquare.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/dOrange.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/dOrange.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/green.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/green.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/orange.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/orange.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/purple.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/purple.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/red.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/red.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/white-ish.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/white-ish.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/win.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/win.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/win1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/win1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/win2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/win2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/win3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/win3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/win4.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/win4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/yellow.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/yellow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Finna HiVolts/_DS_Store" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Finna HiVolts/_DS_Store" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Finna HiVolts/game/Cell.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Finna HiVolts/game/Cell.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Finna HiVolts/game/KeyDetector.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Finna HiVolts/game/KeyDetector.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Finna HiVolts/game/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Finna HiVolts/game/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Finna HiVolts/game/Menu$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Finna HiVolts/game/Menu$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Finna HiVolts/game/Menu$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Finna HiVolts/game/Menu$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Finna HiVolts/game/Menu$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Finna HiVolts/game/Menu$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Finna HiVolts/game/Menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Finna HiVolts/game/Menu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Finna HiVolts/game/Mho.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Finna HiVolts/game/Mho.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Finna HiVolts/game/Music.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Finna HiVolts/game/Music.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Finna HiVolts/game/Painter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Finna HiVolts/game/Painter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Finna HiVolts/game/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Finna HiVolts/game/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +40,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -74,7 +65,9 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="game.Main" />
       <module name="Finna HiVolts" />
       <method v="2">
@@ -92,8 +85,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573228537718</updated>
+      <workItem from="1573445095134" duration="88000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
