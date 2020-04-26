@@ -2,23 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bcd431b-6000-4ca4-a0a2-b3b62f0cb300" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Finna_HiVolts_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/bin/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/bin/Cell.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/bin/KeyDetector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/bin/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/bin/Menu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/bin/Mho.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/bin/Music.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/bin/Painter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/bin/Player.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/bin/_DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/bin/_DS_Store(1)" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Finna HiVolts/_DS_Store" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Finna HiVolts/_DS_Store" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Finna HiVolts/game/Cell.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Finna HiVolts/game/Cell.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Finna HiVolts/game/KeyDetector.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Finna HiVolts/game/KeyDetector.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Finna HiVolts/game/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Finna HiVolts/game/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Finna HiVolts/game/Menu$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Finna HiVolts/game/Menu$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Finna HiVolts/game/Menu$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Finna HiVolts/game/Menu$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Finna HiVolts/game/Menu$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Finna HiVolts/game/Menu$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Finna HiVolts/game/Menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Finna HiVolts/game/Menu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Finna HiVolts/game/Mho.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Finna HiVolts/game/Mho.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Finna HiVolts/game/Music.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Finna HiVolts/game/Music.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Finna HiVolts/game/Painter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Finna HiVolts/game/Painter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Finna HiVolts/game/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Finna HiVolts/game/Player.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/game/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/HiVoltsFinalProject_2_jar/HiVoltsFinalProject 2_jar.jar" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,31 +37,27 @@
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/resources" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
@@ -86,6 +81,27 @@
       <option name="presentableId" value="Default" />
       <updated>1573228537718</updated>
       <workItem from="1573445095134" duration="88000" />
+      <workItem from="1573450138617" duration="210000" />
+      <workItem from="1573450367931" duration="173000" />
+      <workItem from="1573575279806" duration="613000" />
+      <workItem from="1573668456939" duration="738000" />
+      <workItem from="1573770623891" duration="829000" />
+      <workItem from="1573950905327" duration="1124000" />
+      <workItem from="1573966401372" duration="1029000" />
+      <workItem from="1573971213940" duration="175000" />
+      <workItem from="1575346668537" duration="775000" />
+      <workItem from="1575610112722" duration="95000" />
+      <workItem from="1575610230984" duration="21000" />
+      <workItem from="1575610280404" duration="523000" />
+      <workItem from="1575853782277" duration="712000" />
+      <workItem from="1576216223278" duration="501000" />
+      <workItem from="1576301090405" duration="1224000" />
+      <workItem from="1576518833912" duration="890000" />
+      <workItem from="1576955166981" duration="489000" />
+      <workItem from="1576974169210" duration="113000" />
+      <workItem from="1583948811395" duration="1476000" />
+      <workItem from="1584306672321" duration="652000" />
+      <workItem from="1587930090834" duration="208000" />
     </task>
     <servers />
   </component>
@@ -111,16 +127,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/game/Painter.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/game/Painter.java</url>
-          <line>303</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/game/Painter.java</url>
           <line>314</line>

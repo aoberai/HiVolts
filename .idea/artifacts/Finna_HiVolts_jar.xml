@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Finna HiVolts:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Finna_HiVolts_jar</output-path>
+    <root id="archive" name="Finna HiVolts.jar">
+      <element id="module-output" name="Finna HiVolts" />
+    </root>
+  </artifact>
+</component>
