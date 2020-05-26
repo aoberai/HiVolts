@@ -1,14 +1,13 @@
 # HiVolt
 AP CS Project
 
-Hivolt’s project ReadMe
-Readme started: Oct. 31st, 2019
-Latest changes: Nov. 8th, 2019
+Collaborators: Aditya Oberai, Max Valasek, Amrit Arora
 
-Access Code from : https://github.com/Aditya-Paly/HiVolt 
 Introduction:
 This project is to replicate a game called HiVolts given the rules and principles on which the game operates. http://paleyontology.com/AP_CS/hivolts/
 The main goal is to escape the evil Mhos trying to kill you, while also avoiding electric fences which, if touched, will electrocute you. We made 8 classes that allow you to play Hivolts as the specifications detail it.
+
+![Screenshot](GUI.png)
 
 For your reference:
 Main initializes objects for the start of the game        
