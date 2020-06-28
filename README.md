@@ -1,5 +1,4 @@
 # HiVolt
-AP CS Project
 
 Collaborators: Aditya Oberai, Max Valasek, Amrit Arora
 
